@@ -6,8 +6,10 @@ namespace Genericsİntro
     {
         static void Main(string[] args)
         {
-            MyList<string> isimler = new MyList<string>();
-            isimler.Add("enes");
+            //MyList<string> isimler = new MyList<string>();
+            //isimler.Add("enes");
+
+            
 
         }
     }

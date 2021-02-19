@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GenericsIntro
+namespace OOP3
 {
-    class MyDictionary
+    interface ILoggerService
     {
+        void Log();
     }
 }
