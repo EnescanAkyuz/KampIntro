@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{35231227-0E5E-4440-AC74-2B8975D40F71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{ADA3BA65-D3B2-4069-902C-CE44F7D19900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{ADA3BA65-D3B2-4069-902C-CE44F7D19900}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesAbstractDemo", "InterfacesAbstractDemo\InterfacesAbstractDemo.csproj", "{B3E831B5-A4AC-4E0D-BEAD-CB98BC9520A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamePlatform", "GamePlatform\GamePlatform.csproj", "{80C7997E-3C9F-43AB-BD56-F76A71962E17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{ADA3BA65-D3B2-4069-902C-CE44F7D19900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA3BA65-D3B2-4069-902C-CE44F7D19900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA3BA65-D3B2-4069-902C-CE44F7D19900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E831B5-A4AC-4E0D-BEAD-CB98BC9520A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E831B5-A4AC-4E0D-BEAD-CB98BC9520A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E831B5-A4AC-4E0D-BEAD-CB98BC9520A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E831B5-A4AC-4E0D-BEAD-CB98BC9520A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C7997E-3C9F-43AB-BD56-F76A71962E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C7997E-3C9F-43AB-BD56-F76A71962E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C7997E-3C9F-43AB-BD56-F76A71962E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C7997E-3C9F-43AB-BD56-F76A71962E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
